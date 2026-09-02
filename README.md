@@ -19,6 +19,7 @@ Material disponible actualmente:
 - [Introducción al curso](presentaciones/0_intro.pdf)
 - [Repaso de python](presentaciones/0_repaso.pdf)
 - [Tipos de Datos Abstractos](presentaciones/1_tda.pdf)
+- [Çomplejidad Algoritmica](presentaciones/2_complejidad.pdf)
 
 El repositorio se actualizará conforme avance el curso.
 
