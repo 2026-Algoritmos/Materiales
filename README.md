@@ -20,6 +20,8 @@ Material disponible actualmente:
 - [Repaso de python](presentaciones/0_repaso.pdf)
 - [Tipos de Datos Abstractos](presentaciones/1_tda.pdf)
 - [Çomplejidad Algoritmica](presentaciones/2_complejidad.pdf)
+- [Çorrección Algoritmica](presentaciones/3_correccion.pdf)
+- [Arreglos](presentaciones/4_arreglos.pdf)
 
 El repositorio se actualizará conforme avance el curso.
 
