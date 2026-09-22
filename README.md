@@ -22,7 +22,7 @@ Material disponible actualmente:
 - [2. Complejidad Algoritmica](presentaciones/2_complejidad.pdf)
 - [3. Corrección Algoritmica](presentaciones/3_correccion.pdf)
 - [4. Arreglos](presentaciones/4_arreglos.pdf)
-- [5. Recursión (preliminar)](presentaciones/5_recursion.pdf)
+- [5. Recursión](presentaciones/5_recursion.pdf)
 
 El repositorio se actualizará conforme avance el curso.
 
