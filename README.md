@@ -23,6 +23,7 @@ Material disponible actualmente:
 - [3. Corrección Algoritmica](presentaciones/3_correccion.pdf)
 - [4. Arreglos](presentaciones/4_arreglos.pdf)
 - [5. Recursión](presentaciones/5_recursion.pdf)
+- [6. Listas](presentaciones/6_listas.pdf)
 
 El repositorio se actualizará conforme avance el curso.
 
