@@ -18,12 +18,14 @@ Material disponible actualmente:
 - [0. Criterios de evaluación](documentos/criterios_evaluacion.pdf)
 - [0. Introducción al curso](presentaciones/0_intro.pdf)
 - [0. Repaso de python](presentaciones/0_repaso.pdf)
+- [0. Lista de temas con bibliografía usada](presentaciones/0_biblio.pdf)
 - [1. Tipos de Datos Abstractos](presentaciones/1_tda.pdf)
 - [2. Complejidad Algoritmica](presentaciones/2_complejidad.pdf)
 - [3. Corrección Algoritmica](presentaciones/3_correccion.pdf)
 - [4. Arreglos](presentaciones/4_arreglos.pdf)
 - [5. Recursión](presentaciones/5_recursion.pdf)
 - [6. Listas](presentaciones/6_listas.pdf)
+- [7. Listas](presentaciones/7_pilas.pdf)
 
 El repositorio se actualizará conforme avance el curso.
 
