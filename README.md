@@ -25,7 +25,7 @@ Material disponible actualmente:
 - [4. Arreglos](presentaciones/4_arreglos.pdf)
 - [5. Recursión](presentaciones/5_recursion.pdf)
 - [6. Listas](presentaciones/6_listas.pdf)
-- [7. Listas](presentaciones/7_pilas.pdf)
+- [7. Pilas](presentaciones/7_pilas.pdf)
 
 El repositorio se actualizará conforme avance el curso.
 
