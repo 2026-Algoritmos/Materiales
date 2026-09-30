@@ -26,6 +26,7 @@ Material disponible actualmente:
 - [5. Recursión](presentaciones/5_recursion.pdf)
 - [6. Listas](presentaciones/6_listas.pdf)
 - [7. Pilas](presentaciones/7_pilas.pdf)
+- [8. Colas](presentaciones/8_colas.pdf)
 
 El repositorio se actualizará conforme avance el curso.
 
