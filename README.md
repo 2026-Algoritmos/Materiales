@@ -27,6 +27,7 @@ Material disponible actualmente:
 - [6. Listas](presentaciones/6_listas.pdf)
 - [7. Pilas](presentaciones/7_pilas.pdf)
 - [8. Colas](presentaciones/8_colas.pdf)
+- [9. Arboles](presentaciones/9_arboles.pdf)
 
 El repositorio se actualizará conforme avance el curso.
 
