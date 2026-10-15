@@ -28,6 +28,7 @@ Material disponible actualmente:
 - [7. Pilas](presentaciones/7_pilas.pdf)
 - [8. Colas](presentaciones/8_colas.pdf)
 - [9. Arboles](presentaciones/9_arboles.pdf)
+- [10. Arboles de Busqueda Binaria](presentaciones/10_abb.pdf)
 
 El repositorio se actualizará conforme avance el curso.
 
