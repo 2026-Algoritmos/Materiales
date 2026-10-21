@@ -13,12 +13,16 @@ Escuela Nacional de Estudios Superiores, Unidad Juriquilla
 - [Presentaciones](presentaciones/): diapositivas utilizadas en clase.
 - [Documentos](documentos/): lineamientos y documentos de consulta.
 
-Material disponible actualmente:
+Documentos:
 
-- [0. Criterios de evaluación](documentos/criterios_evaluacion.pdf)
+- [1. Criterios de evaluación](documentos/criterios_evaluacion.pdf)
+- [2. Lista de temas con bibliografía usada](presentaciones/0_biblio.pdf)
+- [3. Criterios para la propuesta de proyecto final](documentos/criterios_propuesta_proyecto.pdf)
+
+Presentaciones de clase disponibles actualmente:
+
 - [0. Introducción al curso](presentaciones/0_intro.pdf)
 - [0. Repaso de python](presentaciones/0_repaso.pdf)
-- [0. Lista de temas con bibliografía usada](presentaciones/0_biblio.pdf)
 - [1. Tipos de Datos Abstractos](presentaciones/1_tda.pdf)
 - [2. Complejidad Algoritmica](presentaciones/2_complejidad.pdf)
 - [3. Corrección Algoritmica](presentaciones/3_correccion.pdf)
@@ -29,6 +33,7 @@ Material disponible actualmente:
 - [8. Colas](presentaciones/8_colas.pdf)
 - [9. Arboles](presentaciones/9_arboles.pdf)
 - [10. Arboles de Busqueda Binaria](presentaciones/10_abb.pdf)
+- [11. Arboles de Busqueda Balanceados](presentaciones/10_arboles_balanceados.pdf)
 
 El repositorio se actualizará conforme avance el curso.
 
