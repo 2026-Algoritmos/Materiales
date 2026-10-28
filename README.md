@@ -33,7 +33,9 @@ Presentaciones de clase disponibles actualmente:
 - [8. Colas](presentaciones/8_colas.pdf)
 - [9. Arboles](presentaciones/9_arboles.pdf)
 - [10. Arboles de Busqueda Binaria](presentaciones/10_abb.pdf)
-- [11. Arboles de Busqueda Balanceados](presentaciones/10_arboles_balanceados.pdf)
+- [11. Arboles de Busqueda Balanceados](presentaciones/11_arboles_balanceados.pdf)
+- [12. Tablas Hash](presentaciones/12_tablas_hash.pdf)
+- [12. Heaps](presentaciones/12_heaps.pdf)
 
 El repositorio se actualizará conforme avance el curso.
 
