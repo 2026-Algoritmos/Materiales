@@ -36,7 +36,7 @@ Presentaciones de clase disponibles actualmente:
 - [11. Arboles de Busqueda Balanceados](presentaciones/11_arboles_balanceados.pdf)
 - [12. Tablas Hash](presentaciones/12_tablas_hash.pdf)
 - [12. Heaps](presentaciones/12_heaps.pdf)
-
+- [13. Ordenamiento](presentaciones/13_ordenamiento.pdf)
 El repositorio se actualizará conforme avance el curso.
 
 ## Licencia
