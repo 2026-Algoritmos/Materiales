@@ -6,7 +6,8 @@ Licenciatura en Matemáticas para el Desarrollo.
 **Universidad Nacional Autónoma de México**  
 Escuela Nacional de Estudios Superiores, Unidad Juriquilla  
 **Docente:** Dr. Jorge Armando Ramírez Díaz  
-**Contacto:** jorge.armando.ramirez.diaz@uaq.edu.mx
+**Contacto:** jorge_ramirez@comunidad.unam.mx
+ jorge.armando.ramirez.diaz@uaq.edu.mx
 
 ## Contenido
 
@@ -38,6 +39,7 @@ Presentaciones de clase disponibles actualmente:
 - [12. Heaps](presentaciones/12_heaps.pdf)
 - [13. Ordenamiento](presentaciones/13_ordenamiento.pdf)
 - [14. Grafos](presentaciones/14_grafos.pdf)
+
 El repositorio se actualizará conforme avance el curso.
 
 ## Licencia
